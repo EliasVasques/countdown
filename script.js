@@ -1,5 +1,6 @@
 function updateCountDown () {
-    const eventDate = new Date(2022, 0, 25, 14, 0, 0, 0);
+    // 25 janeiro de 2022 as 14 horas
+    const eventDate = new Date(2022, 0, 25, 14, 0, 0, 0); 
     const now = new Date();
     let gap = eventDate - now;
 
