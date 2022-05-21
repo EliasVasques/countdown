@@ -44,3 +44,7 @@ body {
     font-weight: bolder;
     font-size: 30px;
 }
+
+#date {
+    text-align: center;
+}
